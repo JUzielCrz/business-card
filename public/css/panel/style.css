@@ -1,0 +1,55 @@
+body{
+    background-color: #f0efef;
+}
+
+.bg-yellow{
+    background-color: #f9b17a;
+}
+
+.bg-blue{
+    background-color: #676f9d;
+    color: #fff;
+}
+
+.bg-blue-gray{
+    background-color: #424769;
+    color: #fff;
+}
+
+.bg-blue-dark{
+    background-color: #2d3250;
+}
+
+.bg-back{
+    background-color: #161e31;
+    color: #fff;
+}
+
+.input-text:focus{
+    border-left: 1rem solid #f9b17a;
+}
+
+.btn-yellow{
+    background-color: #f9b17a;
+}
+
+.btn-accept{
+    background-color: #f9b17a;
+    color: #161e31;
+}
+
+.btn-accept:hover{
+    background-color: #424769;
+    color: #ffff;
+}
+
+.btn-add{
+    background-color: #f9b17a;
+    color: #161e31;
+}
+
+.btn-add:hover{
+    background-color: #161e31;
+    color: #ffff;
+}
+
